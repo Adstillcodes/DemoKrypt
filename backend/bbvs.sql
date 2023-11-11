@@ -90,7 +90,7 @@ INSERT INTO `user` (`id`, `name`, `citizenshipNumber`, `email`, `password`, `adm
 (1, 'John', '9860777906', 'john@gmail.com', '$2b$10$6sdkothEwAguhA0FytsGF.gcWPmTDB5hosif6rGX5FFJK8PdBgRHu', 1, 1),
 (2, 'Liza', '9860777907', 'liza@gmail.com', '$2b$10$70yLw0dPhAD0py/iiGUInO7kklGUmbMfa5BmXKGCXEID1ufTsqSQ6', 0, 1),
 (3, 'Ben', '9860777908', 'ben@gmail.com', '$2b$10$1DsQFSqUs3ufyDDRBd9wYuU5i9ihbnYR4GCYJsI3IzGXamwFWnr4S', 0, 1),
-(4, 'Anvit Deshpande', '4568909876', 'anvit5.deshpande@gmail.com', '$2b$10$RZ0tQPL8DPT68LAgW6/FFeASSNIw79wMO376ZmetixQNEz1msyGFm', 0, 1);
+
 
 --
 -- Indexes for dumped tables
