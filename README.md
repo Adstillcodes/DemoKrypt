@@ -1,4 +1,4 @@
-#DemoKrypt
+#DemoKrypt<br>
 A Blockchain-based voting system that can revolutionize the way people in a Corporation/County/Country can vote without worrying about the security and mutability of the votes.
 
 Read the README.md files in /backend and /frontend to run the project.
