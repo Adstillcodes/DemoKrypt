@@ -10,7 +10,7 @@
 ```
 npm run typeorm migration:run
 ```
-## Add the truffle-config.js file to your ganache server in the "Contracts" tab
+# Add the truffle-config.js file to your ganache server in the "Contracts" tab
 
 ## API End-Points
 
